@@ -56,3 +56,6 @@ mysql> USE demo;
 
 -- Tip: If you want to see a list of existing databases on the MySQL server, 
 -- you can execute the statement SHOW DATABASES; on the command line.
+
+-- Tip: If you want to see the list of tables inside the currently selected database, you 
+-- can execute SHOW TABLES; statement on the MySQL command line.
