@@ -95,8 +95,6 @@ CREATE TABLE persons (
 -- table matches the primary key column of the departments table. Therefore, the dept_id column 
 -- of the employees table is the foreign key to the departments table.
 
--- Foreign Key Relationship Diagram
-
 -- In MySQL you can create a foreign key by defining a FOREIGN KEY constraint when you create 
 -- a table as follow. The following statement establishes a foreign key on the dept_id column of 
 -- the employees table that references the dept_id column of the departments table.
