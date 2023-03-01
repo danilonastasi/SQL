@@ -1,3 +1,6 @@
+--SQL Statements
+--SQL statements are very simple and straightforward like plain English but with specific syntax.
+
 
 /* An SQL statement is composed of a sequence of keywords, identifiers, etc. terminated 
 by a semicolon (;). Here is an example of a valid SQL statement.*/
