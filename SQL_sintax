@@ -1,4 +1,9 @@
-SELECT emp_name, hire_date, salary FROM employees WHERE salary > 5000;  -- select fields where salalry is > 5000 from table employees
+
+/* An SQL statement is composed of a sequence of keywords, identifiers, etc. terminated 
+by a semicolon (;). Here is an example of a valid SQL statement.*/
+
+SELECT emp_name, hire_date, salary FROM employees WHERE salary > 5000;  
+-- select fields where salalry is > 5000 from table employees
 
 -- or
 
