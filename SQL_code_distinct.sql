@@ -9,7 +9,7 @@
 --The DISTINCT clause is used to remove duplicate rows from the result set:
 
 --Note: The DISTINCT clause behaves similar to the UNIQUE constraint, except in the way 
--it treats nulls. Two NULL values are considered unique, while at the same time they are 
+--it treats nulls. Two NULL values are considered unique, while at the same time they are 
 --not considered distinct from each other.
 
 --Now execute the following statement which returns all the rows from the city column of this table.
